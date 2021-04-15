@@ -68,6 +68,8 @@ body{
 .small-box p{
     color: hsl(229, 6%, 66%);
     font-weight: 200;
+    padding-top: 20px
+
 }
 .icon{
     display: flex;
